@@ -1,0 +1,49 @@
+{
+  # BlazeandCave's Advancements Pack Cereal Dedication Edition Language File
+
+# How to use: Name and descriptions of advancement to left of : and put translation to right of :, inside the speech marks "" like this: "Advancement Description"
+# Some advancement titles make use of puns that would work in English but probably not in other languages. Be creative if you wish if you can find any puns in foreign languages.
+
+# This file will probably not be updated with new missing vanilla advancements.
+# Currently the text that appears with reward functions are not translatable - support for translating the reward functions messages will come in a later update.
+# Ah yes, if this does happen, maybe I'll do it.
+
+# Language: Romanian
+# Author: woob123
+# Pack version supported: Cereal Dedication V1.8.0 (and earlier)
+
+
+
+# Cereal Pack
+
+"Cereal Dedication": "Dedicație de Cereale",
+"We need a Netherite Hoe to locate Manbearpig": "Avem nevoie de o Sapă de Netherit pentru a-l localiza pe Manbearpig",
+"Manbearpig's Head?": "Capul lui Manbearpig",
+"Manbearpig escaped :( You only found the remains of a long lost Zombie Pigman and it smells like a Bacon Cape?": "Manbearpig a scăpat :( Ai găsit doar rămășițele unui pierdut de mult Piglin Zombificat și miros ca o Capă de Bacon?",
+
+#added in V1.5.0
+"Alpha Slab": "Lespede Alpha",
+"Obtain a Petrified Oak Slab (unobtainable since 1.3.1)": "Obține o Lespede Petrificată de Stejar (de neobținut din 1.3.1)",
+"Legacy Slab": "Lespede Moștenită",
+"Your testament to time should be rewarded": "Testamentul tău al timpului ar trebui să fie recompensat",
+
+#added in V1.6.0
+"Terralith Advancement Legend": "Legendarul Avansărilor Terralith",
+"Complete every single advancement in BlazeandCave's Advancements Pack Terralith Edition": "Completează fiecare avansare din BlazeandCave's Advancement Pack Ediția Terralith",
+"Santa Cave Head": "Capul lui Santa Cave",
+"How Cavinator Saved Christmas: An Assassin of Steve Story": "Cum Cavinator a salvat Crăciunul: O poveste din Asasinul lui Steve",
+"%1$s has completed every advancement in BlazeandCave's Advancements Pack Terralith Edition, earning them the coveted title of %2$s%3$s%4$s": "%1$s a completat fiecare avansare din BlazeandCave's Advancement Pack Ediția Terralith, câștigând titlul de %2$s%3$s%4$s",
+
+"Hardcore Advancement Legend": "Legendarul Avansărilor Hardcore",
+"Complete every single advancement in BlazeandCave's Advancements Pack Hardcore Edition": "Completează fiecare avansare din BlazeandCave's Advancement Pack Ediția Hardcore",
+"Varkem Forces Cave Head": "Capul lui Varkem Forces Cave",
+"Imagine a Varkem Forces soldier in Assassin of Steve": "Imaginează-ți un soldat Varkem Forces în Asasinul lui Steve",
+"%1$s has completed every advancement in BlazeandCave's Advancements Pack Hardcore Edition, earning them the coveted title of %2$s%3$s%4$s": "%1$s a completat fiecare avansare din BlazeandCave's Advancement Pack Ediția Hardcore, câștigând titlul de %2$s%3$s%4$s",
+
+#added in V1.8.0
+"Happy 10 years, Minecraft": "10 ani fericiți, Minecraft",
+"Play for 10 years": "Joacă timp de 10 ani",
+"BACAP 1.7": "BACAP 1.7",
+"This was at one point not hidden": "Acesta nu a fost ascuns la un moment dat"
+
+}
